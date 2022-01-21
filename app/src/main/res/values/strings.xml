@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_1_3_Animation</string>
+    <string name="hello">Hello Android</string>
+    <string name="edit_text_hint">edit text hint</string>
+</resources>
